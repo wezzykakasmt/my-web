@@ -1,0 +1,29 @@
+  * {
+  	margin: auto;
+  	padding: auto;
+  }
+
+header {
+	background-color: darkblue;
+}
+
+
+  {
+  background-color: black;
+ }
+
+nav {
+  background-color: pink;
+}
+
+article {
+  background-color: lightcyan;
+}
+
+tr {
+  background-color: black;
+}
+
+body {
+  background-color: lightpink;
+}
